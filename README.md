@@ -38,7 +38,7 @@ grid = [
 
 The `0` represent empty slots that need to be filled with the correct numbers.
 
-The goal solve this grid and return a grid represented as a Python list of list:
+The goal is to solve this grid and return a grid represented as a Python list of list:
 
 ```python
 grid_solution = [
@@ -67,7 +67,7 @@ To make the program concise and easy to understand:
 - Create a function to validate all the functions above.
 
 In the end, use a sudoku_validator function to check the solution.
-🔗 [Check out my other projects here ->](https://github.com/KawasakiLucas/sudoku-checker-solver)
+🔗 [Check out the Sudoku Validator Project here ->](https://github.com/KawasakiLucas/sudoku-checker-solver)
 
 #
 
